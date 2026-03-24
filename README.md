@@ -205,7 +205,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 <br /><br />
 
-**pwa.mobi is a [Simple Minds](https://simplemindscr.com) initiative**
+**pwa.mobi is a [Simple Minds](https://simpleminds.dev) initiative**
 
 *Building tools for the open web, one URL at a time.*
 
