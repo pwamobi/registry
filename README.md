@@ -11,7 +11,7 @@
 [![Registry: CC0](https://img.shields.io/badge/Registry-CC0-brightgreen.svg)](LICENSE)
 [![Submissions: Open](https://img.shields.io/badge/Submissions-Open-blue.svg)](SUBMISSION_GUIDE.md)
 [![Audit: Automated](https://img.shields.io/badge/Audit-Automated-blue.svg)](.github/workflows/audit.yml)
-[![Discord](https://img.shields.io/badge/Community-Discord-5865F2.svg)](https://discord.gg/YOUR_INVITE)
+[![Discord](https://img.shields.io/badge/Community-Discord-5865F2.svg)](https://discord.gg/46Dm7n4spf)
 
 </div>
 
@@ -169,7 +169,7 @@ Also check your Lighthouse PWA score at [web.dev/measure](https://web.dev/measur
 
 Join the pwa.mobi Discord to connect with other developers, get help with submissions, and shape the direction of the project.
 
-[![Join Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![Join Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/46Dm7n4spf)
 
 ---
 
