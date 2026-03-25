@@ -22,13 +22,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --no-package-lock
 
       - name: Build registry index
-        run: npm run build-index
+        run: node scripts/build-index.js
 
       - name: Commit and push registry.json
         run: |
