@@ -1,0 +1,44 @@
+name: YouNu
+tagline: A conversational mirror that reflects the wisdom already within you
+
+category: health
+
+url: https://younu.pwa.mobi
+manifest_url: https://younu.pwa.mobi/manifest.json
+
+developer:
+  name: Simple Minds
+  github: aigentsatwork
+  website: https://simpleminds.dev
+
+listing:
+  description: |
+    YouNu is a conversational mirror for self-reflection and personal wellbeing.
+    Rather than giving you answers, YouNu guides you to discover the clarity,
+    wisdom, and insight you already carry within yourself. Through thoughtful
+    conversation, YouNu helps you explore your thoughts, feelings, and intentions
+    at your own pace. Free to download and use, with optional in-app purchases
+    for extended features.
+
+  icon_url: https://younu.pwa.mobi/icons/icon-512.png
+
+  screenshots:
+    - https://younu.pwa.mobi/assets/screenshots/ynu-shot-1.png
+    - https://younu.pwa.mobi/assets/screenshots/ynu-shot-2.png
+    - https://younu.pwa.mobi/assets/screenshots/ynu-shot-3.png
+
+  tags:
+    - wellbeing
+    - self-reflection
+    - mental-health
+    - conversational
+    - mindfulness
+    - personal-growth
+
+payment_model: freemium
+pricing_url: https://younu.pwa.mobi
+
+open_source_url:
+
+submitted_by: aigentsatwork
+submission_date: 2026-03-24
