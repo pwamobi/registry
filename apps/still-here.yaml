@@ -1,0 +1,32 @@
+name: Still Here
+tagline: 150 one-minute reads that put your life in perspective
+category: education
+
+url: https://fyosamu.github.io/still-here/
+manifest_url: https://fyosamu.github.io/still-here/manifest.json
+
+developer:
+  name: Fyosamu
+  github: Fyosamu
+  email: akhob59@gmail.com
+  website: https://fyosamu.github.io/still-here/
+
+listing:
+  description: |
+    A free installable PWA with 150 short reads, about a minute each, across six
+    categories: what a $30,000 apartment and a $120 month actually imply, the biology
+    behind why you feel things so intensely, why you got a seat at all, one animal per
+    read you should be grateful you are not, practical next steps, and loose thoughts.
+    Works offline after the first load. No account, no email, no onboarding.
+  icon_url: https://fyosamu.github.io/still-here/icon-512.png
+  tags:
+    - reading
+    - offline
+    - education
+    - perspective
+    - free
+
+payment_model: free
+
+submitted_by: Fyosamu
+submission_date: 2026-09-30
