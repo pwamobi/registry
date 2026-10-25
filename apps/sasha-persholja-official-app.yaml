@@ -1,0 +1,30 @@
+name: Sasha Persholja Official App
+tagline: Official Sasha Persholja music app featuring Big Black Puppet
+category: entertainment
+
+url: https://app.sashapersholja.com
+manifest_url: https://app.sashapersholja.com/manifest.webmanifest
+
+developer:
+  name: Sasha Persholja
+  github: sasapersolja
+  email: news@sashapersholja.com
+  website: https://sashapersholja.com
+
+listing:
+  description: |
+    Official Sasha Persholja music PWA featuring Big Black Puppet. Listen to the independent blues-rock release, watch the video, explore streaming options and access artist information directly from the installable web app.
+
+  icon_url: https://app.sashapersholja.com/Novi%20Logo%20-%20App%20Install%20512x512.png
+
+  tags:
+    - music
+    - entertainment
+    - blues-rock
+    - independent-music
+    - pwa
+
+payment_model: free
+
+submitted_by: sasapersolja
+submission_date: 2026-10-25
