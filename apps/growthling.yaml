@@ -1,0 +1,38 @@
+name: Growthling
+tagline: Free baby growth tracker with WHO and CDC percentiles
+
+category: health
+
+url: https://growthling.app
+manifest_url: https://growthling.app/manifest.webmanifest
+
+developer:
+  name: Bruno Galvao
+  github: brunoqgalvao
+  website: https://growthling.app
+
+listing:
+  description: |
+    Growthling is a free baby growth tracker for parents. Log weight, length
+    and head circumference and see each measurement on the WHO growth
+    standards (0-5 years) or the CDC infant charts, with the percentile and
+    z-score. Free percentile calculator without an account, several children
+    per account, shared access for caregivers. English and Portuguese.
+
+  icon_url: https://growthling.app/icon-512.png
+
+  tags:
+    - baby
+    - parenting
+    - growth-chart
+    - percentile
+    - health
+    - free
+
+payment_model: free
+
+open_source_url:
+
+submitted_by: brunoqgalvao
+submission_date: 2026-10-28
+
